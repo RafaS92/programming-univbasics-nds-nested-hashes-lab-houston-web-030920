@@ -1,4 +1,3 @@
-# Examples inspired by David Foster Wallace's # (2/21/1962 to 9/12/2008) _Infinite Jest_
 
 DON_G = { name:  "Don Gately", occupation: "Live-in Staff" }
 JOELLE_VD = { name:  "Joelle van Dyne", occupation: "Radio Personality" }
@@ -9,6 +8,12 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
+  supper array = [
+    
+    
+    
+    
+    ]
 end
 
 def literal_aoh
